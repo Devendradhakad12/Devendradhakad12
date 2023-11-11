@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://protfolio-khaki.vercel.app/](https://devendra-dhakad-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://devendra-dhakad-portfolio.vercel.app/](https://devendra-dhakad-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN** 
 
